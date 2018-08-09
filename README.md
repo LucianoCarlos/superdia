@@ -11,6 +11,10 @@ Inácio - Desktop <br />
 
 ## Screenshots
 
-<img align="left" width="80%" src="https://github.com/LucianoCarlos/superdia/blob/master/screenshots/sc1.png" alt="Software em execução"/>
+<img align="left" src="https://github.com/LucianoCarlos/superdia/blob/master/screenshots/sc1.png" alt="Software em execução"/>
 
-<img align="center" width="80%" src="https://github.com/LucianoCarlos/superdia/blob/master/screenshots/sc2.png" alt="Software em execução"/>
+<img align="center" src="https://github.com/LucianoCarlos/superdia/blob/master/screenshots/sc2.png" alt="Software em execução"/>
+
+<img align="center" src="https://github.com/LucianoCarlos/superdia/blob/master/screenshots/sc3.png" alt="Software em execução"/>
+
+<img align="center" src="https://github.com/LucianoCarlos/superdia/blob/master/screenshots/sc4.png" alt="Software em execução"/>
